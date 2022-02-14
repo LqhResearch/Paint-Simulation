@@ -1,0 +1,12 @@
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\bin\Debug\PaintSimulation.exe.config
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\bin\Debug\PaintSimulation.exe
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\bin\Debug\PaintSimulation.pdb
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.csproj.AssemblyReference.cache
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.PaintMain.resources
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.Properties.Resources.resources
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.csproj.GenerateResource.cache
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.csproj.CoreCompileInputs.cache
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.exe
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.pdb
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\bin\Debug\Guna.UI2.dll
+A:\Self-created application\Research\PaintSimulation\PaintSimulation\obj\Debug\PaintSimulation.csproj.CopyComplete
